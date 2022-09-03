@@ -3,6 +3,7 @@
 #include <string>
 #include <util/config-file.h>
 
+
 class obs_ndi_config {
 public:
 	std::string ndi_extra_ips;
