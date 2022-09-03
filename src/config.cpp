@@ -8,7 +8,7 @@
 #define PARAM_NDI_EXTRA_IPS "NdiExtraIps"
 #define PARAM_PROGRAM_OUTPUT_ENABLEED "program_output_enabled"
 #define PARAM_PROGRAM_OUTPUT_NAME "program_output_name"
-#define PARAM_PREVIEW_OUTPUT_ENABLED "preview_output_enabled" 
+#define PARAM_PREVIEW_OUTPUT_ENABLED "preview_output_enabled"
 #define PARAM_PREVIEW_OUTPUT_NAME "preview_output_name"
 
 obs_ndi_config::obs_ndi_config()
